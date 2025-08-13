@@ -33,9 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?a7wolf=a7wolf&show_icons=true&theme=radical)
+https://github.com/a7wolf
 
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-a7wolf/)
+https://www.linkedin.com/in/abdulmalik-alaa-220385366?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcssRnnyqQu2BOzj3fmIo3Q%3D%3D
